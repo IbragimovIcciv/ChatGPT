@@ -11,14 +11,12 @@ ChatGPT — bu OpenAI tomonidan yaratilgan ilg‘or sun’iy intellekt modeli bo
 
 **Atrof-muhitni sozlash**:
     Quyidagi parametrlarni qo'shing:
+
     ```
     TELEGRAM_BOT_TOKEN
     openai.api_key
 
     ```
-
-## Foydalanish
-
 
 ### Buyruqlar
 
