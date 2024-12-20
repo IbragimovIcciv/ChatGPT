@@ -1,9 +1,5 @@
 # Telegram Bot Hujjati
-  
-![TgBot](https://celebrated-pudding-07af2f.netlify.app/images/ai.jpg)
-)
-   
-        
+          
 ## Umumiy ma'lumot  
   
 ChatGPT — bu OpenAI tomonidan yaratilgan ilg‘or sun’iy intellekt modeli bo‘lib, inson tiliga yaqin matnlarni tushunish va yaratish qobiliyatiga ega. U foydalanuvchilarga turli sohalarda yordam ko‘rsatish uchun mo‘ljallangan va savollarga javob berish, tushuntirishlar berish, matn yozish, dasturlashda yordam ko‘rsatish kabi vazifalarni bajaradi.
